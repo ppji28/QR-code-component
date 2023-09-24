@@ -1,0 +1,12 @@
+/* import font  */
+/* weights 400 */
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+/* weights 700 */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+/* set up page */
+*{
+   margin: 0;
+   padding: 0; 
+   box-sizing: border-box;
+}
